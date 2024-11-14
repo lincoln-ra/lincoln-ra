@@ -1,4 +1,4 @@
-## Some of the technologies I work with:
+## Technologies I work with:
 
 <div align="center">
 
