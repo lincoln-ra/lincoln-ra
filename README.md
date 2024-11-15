@@ -1,3 +1,18 @@
+
+<div align="center">
+  
+  # 👋 Hello, World! I'm Redwan Ahmed Lincoln
+  
+  ### 🚀 Designer | 🌐 Developer | 💡 Dreamer
+  
+  Passionate about creating beautiful, functional, and user-friendly digital experiences. From sketching ideas to bringing them to life in code, I love every part of the journey. Whether it's a sleek website, an intuitive app, or a complex problem begging for a solution, I’m all in.
+
+  #### Let’s build something amazing together! 🎉
+
+</div>
+
+
+
 ## Technologies I work with:
 
 <div align="center">
