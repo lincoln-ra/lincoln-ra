@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  # 👋 Hello, World! I'm Redwan Ahmed Lincoln
+  # 👋 Hello There! I'm Redwan Ahmed Lincoln
   
   ### 🚀 Designer | 🌐 Developer | 💡 Dreamer
   
@@ -33,11 +33,15 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
       <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://i.ibb.co.com/y4KgbtX/pngwing-com.png" width="48" height="48" alt="VS Code" />
+      <br>VS Code
     </td>
   </tr>
   <tr>
@@ -61,10 +65,16 @@
       <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
   </tr>
 </table>
 
 </div>
+
+
 
 
 
