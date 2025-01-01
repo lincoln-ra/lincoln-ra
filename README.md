@@ -78,16 +78,15 @@
 ## 📊 Stats
 
 
-<!--
+
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lincoln-ra&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincoln-ra&layout=compact&theme=radical)
 
 </div>
 
 ---
--->
+
 ## 🛠️ Current Focus
 
 - Basic full-stack MERN application Building.  
