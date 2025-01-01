@@ -1,4 +1,3 @@
-
 <div align="center">
   
   # 👋 Hello There! I'm Redwan Ahmed Lincoln
@@ -11,7 +10,7 @@
 
 </div>
 
-
+---
 
 ## Technologies I work with:
 
@@ -40,7 +39,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://i.ibb.co.com/y4KgbtX/pngwing-com.png" width="48" height="48" alt="VS Code" />
+      <img src="https://i.ibb.co.com/NZ6WjY7/pngwing-com-1.png" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
   </tr>
@@ -74,22 +73,26 @@
 
 </div>
 
+---
 
+## 📊 Stats
 
+<div align="center">
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lincoln-ra&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincoln-ra&layout=compact&theme=radical)
 
+</div>
 
-<!--
-**lincoln-ra/lincoln-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Basic full-stack MERN application Building.  
+
+---
+
+## 🎯 Future Goals
+
+- Become a proper full-stack developer.  
+
